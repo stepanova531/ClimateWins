@@ -16,7 +16,7 @@ Open source data collected by the [European Climate Assessment & Data Set projec
 2- Batch of four different weather conditions (cloudy, rainy, sunny, and sunrise) from [Kaggle](https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset)
 # Tools
 Python, Jupyter Notebook, sklearn, tensorflow, keras libraries
-Python scripts are available here, [Supervised Machine Leaning](https://github.com/stepanova531/ClimateWins-Unsupervised-ML/tree/main/ClimateWins/02%20Scripts%20Supervised%20ML) and Unsupervised Machine Learning models.
+Python scripts are available here, [Supervised Machine Leaning](https://github.com/stepanova531/ClimateWins-Unsupervised-ML/tree/main/ClimateWins/02%20Scripts%20Supervised%20ML) and [Unsupervised Machine Learning](https://github.com/stepanova531/ClimateWins-Unsupervised-ML/tree/main/ClimateWins/03%20Scripts%20Unsupervised%20ML) models.
 # Insights & Recommendations
 # Key takeaways
 
