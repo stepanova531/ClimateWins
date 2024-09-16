@@ -1,5 +1,5 @@
 # ClimateWins
-Machine Learning with Python
+Machine Learning with Python as a part of Data Analytics course at CareerFoundry.
 # Objective
 Use machine learning to help predict the consequences of climate change.
 - Finding new patterns in weather changes;
