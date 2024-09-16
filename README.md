@@ -1,4 +1,4 @@
-# ClimateWins-Unsupervised-ML
+# ClimateWins
 Machine Learning with Python
 # Objective
 Use machine learning to help predict the consequences of climate change.
